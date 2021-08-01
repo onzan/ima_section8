@@ -1,3 +1,4 @@
+google-api-python-client==2.8.0
 discovery==0.0.4
 pandas==1.2.3
 streamlit==0.85.0
